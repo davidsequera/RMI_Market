@@ -1,12 +1,9 @@
 id, name, price
-0, carrot, 1.0
-1, potato, 2.0
-2, onion, 3.0
-3, garlic, 4.0
-4, tomato, 5.0
-5, cucumber, 6.0
-6, eggplant, 7.0
-7, pepper, 8.0
-8, cabbage, 9.0
-9, broccoli, 10.0
-10, cauliflower, 11.0
+3, garlic,4.0
+4, tomato,5.0
+5, cucumber,6.0
+6, eggplant,7.0
+7, pepper,8.0
+8, cabbage,9.0
+9, broccoli,10.0
+10, cauliflower,11.0
